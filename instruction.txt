@@ -1,0 +1,7 @@
+このプロジェクト全体を下記の手順で把握せよ
+＃README.mdを読め
+＃TECHNICAL_SPECIFICATION.mdを読め
+＃IMPLEMENTATION_SPECIFICATION.mdを読め
+＃上記３つのファイルから得られた知識を保持したまま下記のことをしろ
+＃＃Projectの実際の構成を構成を把握しろ
+＃＃Project内のソースコードを読み込んで理解しろ
