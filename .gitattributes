@@ -1,0 +1,24 @@
+# テキストファイルの改行コードを自動で正規化
+* text=auto
+
+# ソースコードの文字コードをUTF-8に統一
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+
+# バイナリファイルは差分を取らない
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.zip binary
+*.wasm binary
+
+# GitHubでのdiff表示を最適化
+*.md diff=markdown 
